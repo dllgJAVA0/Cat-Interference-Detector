@@ -1,0 +1,2 @@
+# Ideas
+Document retry policy
